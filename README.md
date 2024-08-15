@@ -1,7 +1,7 @@
 # VoiceAI
 VoiceAI is a web application that allows users to transcribe spoken audio into text. It uses OpenAI's Whisper model for transcription and is built with Flask and JavaScript.
 
-Features
+## Features
 Record audio directly from your browser
 Transcribe recorded audio into text
 View transcriptions on a separate page
