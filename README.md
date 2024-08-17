@@ -7,11 +7,11 @@ Transcribe recorded audio into text
 View transcriptions on a separate page
 
 ## Technologies Used
-Backend: Flask
-Frontend: HTML, JavaScript
-Audio Recording: Recorder.js
-Transcription: OpenAI Whisper model
-CSRF Protection: Flask-WTF
+ - Backend: Flask
+ - Frontend: HTML, JavaScript
+ - Audio Recording: Recorder.js
+ - Transcription: OpenAI Whisper model
+ - CSRF Protection: Flask-WTF
 
 ## Usage
 Navigate to the Application:
